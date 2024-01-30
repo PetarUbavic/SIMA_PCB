@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=FP-FCG-MFG New Footprint=FP-FCG-MFG
+Change Component Footprint: Designator=C12 Old Footprint=FP-FCG-MFG New Footprint=FP-FCG-MFG
+Change Component Footprint: Designator=C13 Old Footprint=FP-FCG-MFG New Footprint=FP-FCG-MFG
+Added Pin To Net: NetName=VIN Pin=C12-2
+Added Pin To Net: NetName=VIN Pin=C13-2
+Added Pin To Net: NetName=VIN Pin=U3-16
+Added Pin To Net: NetName=VIN Pin=U4-16
