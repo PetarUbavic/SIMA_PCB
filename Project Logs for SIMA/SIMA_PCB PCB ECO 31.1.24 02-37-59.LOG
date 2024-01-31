@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=L_DIR Pin=U2-35
+Removed Pin From Net: NetName=L_EN Pin=U2-37
+Added Pin To Net: NetName=L_EN Pin=U2-35
+Added Pin To Net: NetName=L_DIR Pin=U2-37
+Added Member To Class: ClassName=Schematic Member=Component C2 330µF
+Added Member To Class: ClassName=Schematic Member=Component C3 22uf
+Added Member To Class: ClassName=Schematic Member=Component C4 10uf
+Added Member To Class: ClassName=Schematic Member=Component C5 4.7uf
+Added Member To Class: ClassName=Schematic Member=Component C7 10uf
+Added Member To Class: ClassName=Schematic Member=Component C8 22uf
+Added Member To Class: ClassName=Schematic Member=Component C9 33uf
+Added Member To Class: ClassName=Schematic Member=Component C10 2.2nf
+Added Member To Class: ClassName=Schematic Member=Component C11 100nf
+Added Member To Class: ClassName=Schematic Member=Component C12 330µF
+Added Member To Class: ClassName=Schematic Member=Component C13 330µF
+Added Member To Class: ClassName=Schematic Member=Component ES1 emergency_pushbutton
+Added Member To Class: ClassName=Schematic Member=Component IC1 AOZ6606PI
+Added Member To Class: ClassName=Schematic Member=Component J1 GND
+Added Member To Class: ClassName=Schematic Member=Component J2 5V
+Added Member To Class: ClassName=Schematic Member=Component J3 3v3
+Added Member To Class: ClassName=Schematic Member=Component J4 GPIO_Left
+Added Member To Class: ClassName=Schematic Member=Component J5 GPIO_Right
+Added Member To Class: ClassName=Schematic Member=Component J6 GND
+Added Member To Class: ClassName=Schematic Member=Component L1 6.8uH
+Added Member To Class: ClassName=Schematic Member=Component Q1 IRF4905
+Added Member To Class: ClassName=Schematic Member=Component R1 174Kohm
+Added Member To Class: ClassName=Schematic Member=Component R2 10Kohm
+Added Member To Class: ClassName=Schematic Member=Component R4 24Kohm
+Added Member To Class: ClassName=Schematic Member=Component R5 100Kohm
+Added Member To Class: ClassName=Schematic Member=Component R6 4.7Kohm
+Added Member To Class: ClassName=Schematic Member=Component R7 10Kohm
+Added Member To Class: ClassName=Schematic Member=Component R8 4.7Kohm
+Added Member To Class: ClassName=Schematic Member=Component R9 10Kohm
+Added Member To Class: ClassName=Schematic Member=Component R10 4.7Kohm
+Added Member To Class: ClassName=Schematic Member=Component R11 10Kohm
+Added Member To Class: ClassName=Schematic Member=Component R12 4.7Kohm
+Added Member To Class: ClassName=Schematic Member=Component R13 10Kohm
+Added Member To Class: ClassName=Schematic Member=Component S1 UltraSonic_Sensor
+Added Member To Class: ClassName=Schematic Member=Component S2 UltraSonic_Sensor
+Added Member To Class: ClassName=Schematic Member=Component S3 UltraSonic_Sensor
+Added Member To Class: ClassName=Schematic Member=Component S4 UltraSonic_Sensor
+Added Member To Class: ClassName=Schematic Member=Component U2 ESP32WROOM_V2
+Added Member To Class: ClassName=Schematic Member=Component U3 DriverA4988 Left
+Added Member To Class: ClassName=Schematic Member=Component U6 R_MOTOR_CONN
+Added Member To Class: ClassName=Schematic Member=Component XT1 XT 60 CONN
+Added Member To Class: ClassName=Schematic Member=Component ZD1 10V

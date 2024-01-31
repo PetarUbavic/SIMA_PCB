@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GP19 Pin=J4-1
+Removed Pin From Net: NetName=GP18 Pin=J4-2
+Removed Pin From Net: NetName=GP5 Pin=J4-3
+Removed Pin From Net: NetName=GP17 Pin=J4-4
+Removed Pin From Net: NetName=R_DIR Pin=U2-5
+Removed Pin From Net: NetName=R_STEP Pin=U2-6
+Removed Pin From Net: NetName=R_EN Pin=U2-7
+Removed Pin From Net: NetName=S2_ECHO Pin=U2-23
+Removed Pin From Net: NetName=S2_TRIG Pin=U2-24
+Added Pin To Net: NetName=GP19 Pin=J4-2
+Added Pin To Net: NetName=GP18 Pin=J4-3
+Added Pin To Net: NetName=GP5 Pin=J4-4
+Added Pin To Net: NetName=GP17 Pin=J4-5
+Added Pin To Net: NetName=R_DIR Pin=U2-23
+Added Pin To Net: NetName=R_EN Pin=U2-24
+Added Pin To Net: NetName=R_STEP Pin=U2-25
+Added Pin To Net: NetName=S2_ECHO Pin=U2-26
+Added Pin To Net: NetName=S2_TRIG Pin=U2-27
+Added Pin To Net: NetName=GP32 Pin=J4-1
+Added Pin To Net: NetName=GP32 Pin=U2-7
+Added Net: Name=GP32
