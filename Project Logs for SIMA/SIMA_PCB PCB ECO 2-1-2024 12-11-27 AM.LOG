@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=GND NewDesignator=GND2
+Change Component Designator: OldDesignator=GPIO NewDesignator=GPIO1
+Change Component Designator: OldDesignator=GPIO NewDesignator=GPIO2
+Added Component: Designator=MH1(HOLE-3mm)
+Added Component: Designator=MH2(HOLE-3mm)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Member To Class: ClassName=Schematic Member=Component GND1
+Added Member To Class: ClassName=Schematic Member=Component GPIO2 GPIO_Right
+Added Member To Class: ClassName=Schematic Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=Schematic Member=Component MH2 Mounting Hole
