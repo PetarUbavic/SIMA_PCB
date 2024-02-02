@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=S2_ECHO Pin=U2-3
+Removed Pin From Net: NetName=S2_TRIG Pin=U2-4
+Removed Pin From Net: NetName=R_STEP Pin=U2-24
+Removed Pin From Net: NetName=R_DIR Pin=U2-25
+Removed Pin From Net: NetName=S4_ECHO Pin=U2-26
+Removed Pin From Net: NetName=S4_TRIG Pin=U2-27
+Removed Pin From Net: NetName=S3_ECHO Pin=U2-33
+Removed Pin From Net: NetName=S3_TRIG Pin=U2-34
+Removed Pin From Net: NetName=L_EN Pin=U2-35
+Removed Member From Class: ClassName=Schematic Member=GPIO1
+Added Component: Designator=M1(UltraSonic_Sensor)
+Added Pin To Net: NetName=+5 Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Pin To Net: NetName=S2_ECHO Pin=U2-7
+Added Pin To Net: NetName=S2_TRIG Pin=U2-8
+Added Pin To Net: NetName=R_STEP Pin=U2-15
+Added Pin To Net: NetName=R_DIR Pin=U2-26
+Added Pin To Net: NetName=S4_ECHO Pin=U2-27
+Added Pin To Net: NetName=S4_TRIG Pin=U2-28
+Added Pin To Net: NetName=S3_TRIG Pin=U2-30
+Added Pin To Net: NetName=S3_ECHO Pin=U2-31
+Added Pin To Net: NetName=L_EN Pin=U2-33
+Added Pin To Net: NetName=SERVO Pin=M1-1
+Added Pin To Net: NetName=SERVO Pin=U2-10
+Added Net: Name=SERVO
+Added Member To Class: ClassName=Schematic Member=Component C13 330µF
+Added Member To Class: ClassName=Schematic Member=Component M1 ServoMotor
