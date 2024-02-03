@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=R_STEP Pin=U2-15
+Added Pin To Net: NetName=R_STEP Pin=U2-23
+Added Pin To Net: NetName=EN Pin=U2-33
+Added Pin To Net: NetName=EN Pin=U3-1
+Added Pin To Net: NetName=EN Pin=U4-1
+Added Net: Name=EN
+Added Pin To Net: NetName=GP13 Pin=GPIO2-1
+Added Pin To Net: NetName=GP13 Pin=U2-15
+Added Net: Name=GP13

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GP27 Pin=U2-23
+Removed Pin From Net: NetName=GP25 Pin=U2-26
+Removed Pin From Net: NetName=L_DIR Pin=U2-27
+Removed Pin From Net: NetName=L_STEP Pin=U2-28
+Added Pin To Net: NetName=L_DIR Pin=U2-23
+Added Pin To Net: NetName=L_STEP Pin=U2-26
+Added Pin To Net: NetName=GP27 Pin=U2-27
+Added Pin To Net: NetName=GP25 Pin=U2-28

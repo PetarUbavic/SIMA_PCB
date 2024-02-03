@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GP27 Pin=U2-27
+Removed Pin From Net: NetName=GP13 Pin=U2-30
+Added Pin To Net: NetName=GP13 Pin=U2-27
+Added Pin To Net: NetName=GP27 Pin=U2-30
