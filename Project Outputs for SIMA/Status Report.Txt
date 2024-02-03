@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SIMA.PrjPcb]
+   Generated File[SIMA_PCB_Copper_Signal_Top.gbr]
+   Generated File[SIMA_PCB_Copper_Signal_Bot.gbr]
+   Generated File[SIMA_PCB_Pads_Bot.gbr]
+   Generated File[SIMA_PCB_Pads_Top.gbr]
+   Generated File[SIMA_PCB_Legend_Top.gbr]
+   Generated File[SIMA_PCB_Legend_Bot.gbr]
+   Generated File[SIMA_PCB_Soldermask_Top.gbr]
+   Generated File[SIMA_PCB_Soldermask_Bot.gbr]
+   Generated File[SIMA_PCB_Paste_Top.gbr]
+   Generated File[SIMA_PCB_Paste_Bot.gbr]
+   Generated File[SIMA_PCB_Profile.gbr]
+   Generated File[SIMA_PCB_NPTH_Drill.gbr]
+   Generated File[SIMA_PCB_PTH_Drill.gbr]
+   Generated File[SIMA_PCB.EXTREP]
+   Generated File[SIMA_PCB.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 6:08:04 PM On 2/3/2024
